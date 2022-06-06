@@ -1,5 +1,6 @@
 # Better
 
+
 ## How to submit your idea
 
 Visit [/better-app/issues](https://github.com/better-feedback/better-app/issues) and add a new issue.
@@ -8,7 +9,7 @@ To list your issue on your Better board, tag the issue category as `bug` or `fea
 
 Your issue should now appear on [better.betterhq.org](https://better.betterhq.org/).
 
-You can now
+You can now:
 
 👉 login with Discord and vote on your favorite issue
 
